@@ -134,12 +134,10 @@
         padding: 20px;
     }
 
-    .navi {
-        width: 200px;
-    }
 
     .nav2 {
         font-size: 10px;
+        
 
     }
 
@@ -150,7 +148,7 @@
     }
 
     .part2 {
-        padding: 20px;
+        padding: 10px;
         display: flex;
         flex-direction: column-reverse;
         text-align: center
@@ -207,5 +205,10 @@
         background-color: white;
         width: 95%;
     }
+    .logo1{
+        margin-left: 23px;
+    }
+
+    
 
 }
